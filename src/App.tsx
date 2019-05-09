@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {MapComponent} from "./components/Map"
+import {MapComponent} from "./components/MapComponent"
 
 const App: React.FC = () => {
   return (
